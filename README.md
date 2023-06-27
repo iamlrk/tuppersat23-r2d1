@@ -12,7 +12,9 @@ Unfortunately our satellite was not recovered.
 ## Team Details
 
 Darya Corry - @dcorry2022 : Structural and Verification Lead 
+
 Ramkiran Lepakshi - @iamlrk : Systems Engineer and Software Lead
+
 Roisin Ryan - @RoRoisin : Electronics and Instrumentation Lead
 
 ---
