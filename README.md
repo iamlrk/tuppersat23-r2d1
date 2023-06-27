@@ -2,7 +2,7 @@
 
 > **Note**
 > 
-> This repo was orginallly hosted on UCD Satellite Subsystem's private repository, I cloned it and am hosting it here to showcase it.
+> This repo was orginallly hosted on UCD Satellite Subsystem's private repository, I cloned it and am hosting it here to showcase it. This is just the main branch. There were dev branched that I didn't clone.
 
 This was launched on 25 April, 2023. 
 Unfortunately our satellite was not recovered.
