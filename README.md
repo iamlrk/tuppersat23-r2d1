@@ -67,6 +67,7 @@ Tuppersat-R2D1:.
 6. MS5611-01BA03 - Pressure Sensor
 7. SD Card
 8. T3 Radio Transmittor
+9. MIKROE-1032 - GPS Module 
 
 ---
 
